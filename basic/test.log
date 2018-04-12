@@ -1,0 +1,5 @@
+04/12/2018 12:14:21 PM - ReadFromConfig - DEBUG - Debug message
+04/12/2018 12:14:21 PM - ReadFromConfig - INFO - Info message
+04/12/2018 12:14:21 PM - ReadFromConfig - WARNING - warning message
+04/12/2018 12:14:21 PM - ReadFromConfig - ERROR - Error message
+04/12/2018 12:14:21 PM - ReadFromConfig - CRITICAL - Critical message
